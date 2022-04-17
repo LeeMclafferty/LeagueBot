@@ -1,0 +1,17 @@
+{
+  "name": "leaguebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "leaguebot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0",
+    "node-fetch": "^2.6.6",
+    "riot-lol-api": "^4.3.4"
+  }
+}
